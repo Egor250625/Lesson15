@@ -1,3 +1,5 @@
+package com.example.part1;
+
 public class lesson15 {
     public static void main(String[] args) {
         int[] array = {23, 421, 12, 12};
